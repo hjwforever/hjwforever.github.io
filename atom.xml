@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hjwforever</title>
+  
+  <subtitle>人生意何存，所思即所在٩(⑉Ծ^Ծ⑉)ᕗ</subtitle>
+  <link href="https://hjwforever.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hjwforever.github.io/"/>
+  <updated>2021-04-04T21:00:06.317Z</updated>
+  <id>https://hjwforever.github.io/</id>
+  
+  <author>
+    <name>hjwforever</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://hjwforever.github.io/posts/f82e.html"/>
+    <id>https://hjwforever.github.io/posts/f82e.html</id>
+    <published>2021-04-04T20:26:11.000Z</published>
+    <updated>2021-04-04T21:00:06.317Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/2021/04/05/2233.jpg&quot; alt=&quot;test.png&quot;&gt;&lt;/p&gt;
+&lt;pre class=&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hjwforever.github.io/posts/3eeb.html"/>
+    <id>https://hjwforever.github.io/posts/3eeb.html</id>
+    <published>2021-04-04T17:08:40.339Z</published>
+    <updated>2021-04-04T19:04:55.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
