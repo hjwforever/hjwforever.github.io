@@ -6,7 +6,7 @@
   <link href="https://hjwforever.github.io/atom.xml" rel="self"/>
   
   <link href="https://hjwforever.github.io/"/>
-  <updated>2021-04-04T21:00:06.317Z</updated>
+  <updated>2021-04-13T01:55:22.566Z</updated>
   <id>https://hjwforever.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nestjs 安装及使用</title>
+    <link href="https://hjwforever.github.io/posts/2347.html"/>
+    <id>https://hjwforever.github.io/posts/2347.html</id>
+    <published>2021-04-13T01:29:35.000Z</published>
+    <updated>2021-04-13T01:55:22.566Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Nestjs-安装及使用&quot;&gt;&lt;a href=&quot;#Nestjs-安装及使用&quot; class=&quot;headerlink&quot; title=&quot;Nestjs 安装及使用&quot;&gt;&lt;/a&gt;Nestjs 安装及使用&lt;/h1&gt;&lt;h2 id=&quot;Nestjs-简介&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
