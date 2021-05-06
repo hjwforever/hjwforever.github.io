@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Git趣味学习</title>
+      <link href="posts/4c14.html"/>
+      <url>posts/4c14.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="代码管理"><a href="#代码管理" class="headerlink" title="代码管理"></a>代码管理</h2><blockquote><p>代码管理的重要性不言而喻，既可以降低灾难恢复代价，也利于团队协作开发，还利于重大更新的分支开发。</p></blockquote><p>有时候不小心写错或丢失项目代码， 通过代码管理工具来回溯项目代码往往可以成为我们的救命稻草。</p><p>谈到代码管理， 大家脑海中一定会浮现Git、SVN等。</p><p>不过相对于SVN， 具有分布式特性，更快速的Git是更受到个人喜爱的。下面来分享个可以通过沙盒趣味学习Git命令的网站。</p><h2 id="Git学习"><a href="#Git学习" class="headerlink" title="Git学习"></a>Git学习</h2><p><a href="https://learngitbranching.js.org/">LearnGitBranching</a>是一个非常有趣的Git学习网站，它不仅有生动有趣的可视化分支视图来帮助学习者理解Git工作流程，还有循序渐进的趣味闯关。<a href="https://github.com/pcottle/learnGitBranching">Github地址</a></p><h3 id="关卡示例"><a href="#关卡示例" class="headerlink" title="关卡示例"></a>关卡示例</h3><p>LearnGitBranching具有非常形象的可视化视图，让我们对git分支的操作及整个Git工作树的变化一目了然。<br><img src="https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/2021/05/06/gitlearn2.png" alt="关卡示例"></p><h3 id="关卡"><a href="#关卡" class="headerlink" title="关卡"></a>关卡</h3><p>关卡设计得非常合理，从<code>git commit</code>提交开始学习，后面是<code>git branch</code>创建分支，<code>git checkout &lt;branch_name&gt;</code>切换分支等，最后还有关于远程仓库的关卡。<br><img src="https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/2021/05/06/gitlearn3.png" alt="关卡"></p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><blockquote><p>那么在LearnGitBranching，我们不仅可以把Git学得开心，还可以学得明白了 :)</p></blockquote><p>相关链接:<br><a href="https://learngitbranching.js.org/">LearnGitBranching</a><br><a href="https://github.com/pcottle/learnGitBranching">LearnGitBranching Github地址</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Nestjs 安装及使用</title>
       <link href="posts/2347.html"/>
       <url>posts/2347.html</url>
