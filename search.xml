@@ -12,6 +12,14 @@
       
       
       
+        <tags>
+            
+            <tag> git </tag>
+            
+            <tag> 代码管理 </tag>
+            
+        </tags>
+      
     </entry>
     
     
@@ -25,31 +33,34 @@
       
       
       
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="posts/f82e.html"/>
-      <url>posts/f82e.html</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/2021/04/05/2233.jpg" alt="test.png"></p><pre class=" language-bash"><code class="language-bash"><span class="token function">npm</span> i </code></pre>]]></content>
-      
-      
+        <tags>
+            
+            <tag> nest </tag>
+            
+            <tag> 前端 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="posts/3eeb.html"/>
-      <url>posts/3eeb.html</url>
+      <title>node、npm及vue的下载、安装及配置</title>
+      <link href="posts/6377.html"/>
+      <url>posts/6377.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="nodejs官网及安装包链接"><a href="#nodejs官网及安装包链接" class="headerlink" title="nodejs官网及安装包链接"></a>nodejs官网及安装包链接</h3><p><a href="https://nodejs.org/en/">Node.js官网</a>获取node安装程序</p><p><a href="https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi">v14.16.0</a> || <a href="https://nodejs.org/dist/v15.12.0/node-v15.12.0-x64.msi">v15.12.0</a>   （点击可以直接下载安装包）</p><h3 id="一、下载Nodejs并安装"><a href="#一、下载Nodejs并安装" class="headerlink" title="一、下载Nodejs并安装"></a>一、下载Nodejs并安装</h3><hr><h4 id="1-0-下载并打开安装程序"><a href="#1-0-下载并打开安装程序" class="headerlink" title="1.0 下载并打开安装程序"></a>1.0 下载并打开安装程序</h4><p>​    这里选择下载的是 <span style='color:green;'>v14.16.0</span></p><p><img src="https://img-blog.csdnimg.cn/img_convert/ec3b3a3a251782952b1b059b234e5fd8.png" alt="install"></p><h4 id="1-1-安装界面1"><a href="#1-1-安装界面1" class="headerlink" title="1.1 安装界面1:"></a>1.1 安装界面1:</h4><p><img src="https://img-blog.csdnimg.cn/img_convert/5f335f2c546c91d253679f12719c75f2.png" alt="2021/03/29/nodejs-install1"></p><h4 id="1-2-安装界面2"><a href="#1-2-安装界面2" class="headerlink" title="1.2 安装界面2:"></a>1.2 安装界面2:</h4><p>​    勾选 <span style='font-family:微软雅黑;background:white;font-size:16;color:blue;'>I accept the terms in the License Agreement</span> , 点击 <span style='color:red;background:white;font-size:14;font-family:red;'>Next</span></p><p><img src="https://img-blog.csdnimg.cn/img_convert/07728cb6dee4b4fb6c1c520f6970fc31.png" alt="2021/03/29/node-install2"></p><h4 id="1-3-安装界面3"><a href="#1-3-安装界面3" class="headerlink" title="1.3 安装界面3:"></a>1.3 安装界面3:</h4><p>​    选择安装位置，点击 <span style='font-family:微软雅黑;background:white;font-size:16;color:red;'>Next</span></p><p><img src="https://img-blog.csdnimg.cn/img_convert/2dfe31f5cb6948a6dfa2985e363e9d69.png" alt="2021/03/29/node-install3"></p><h4 id="1-4-安装界面4"><a href="#1-4-安装界面4" class="headerlink" title="1.4 安装界面4:"></a>1.4 安装界面4:</h4><p>​    选择安装内容， 可以直接点击 <span style='font-family:微软雅黑;background:white;font-size:16;color:red;'>Next</span></p><p>​    <em>另外这步会<span style='font-family:微软雅黑;background:white;font-size:16;color:green;'>自动</span>将 nodejs启动程序位置 加入到 系统环境变量Path 中</em></p><p><img src="https://img-blog.csdnimg.cn/img_convert/c00f6b97d2f60b09cff0658b49d3cc3f.png" alt="2021/03/29/node-install4"></p><h4 id="1-5-安装界面5、6："><a href="#1-5-安装界面5、6：" class="headerlink" title="1.5 安装界面5、6："></a>1.5 安装界面5、6：</h4><p>接下来其实可以一路点击<span style='font-family:微软雅黑;background:white;font-size:16;color:red;'>Next</span>或者<span style='font-family:微软雅黑;background:white;font-size:16;color:red;'>Install</span>开始安装了</p><p><img src="https://img-blog.csdnimg.cn/img_convert/8888a6a7fff9bb082093bc94613a3178.png" alt="2021/03/29/node-install5"></p><p><img src="https://img-blog.csdnimg.cn/img_convert/f220eeece077b81aed26c411b0f84264.png" alt="2021/03/29/node-install6"></p><h4 id="1-6-Nodejs-安装完成"><a href="#1-6-Nodejs-安装完成" class="headerlink" title="1.6 Nodejs 安装完成"></a>1.6 Nodejs 安装完成</h4><p>​        点击<span style='font-family:微软雅黑;background:white;font-size:16;color:red;'>Finish</span>完成安装，下一步测试是否成功安装</p><p><img src="https://img-blog.csdnimg.cn/img_convert/094d08b2745184f76c0644450fdca1a3.png" alt="2021/03/29/node-install7"></p><h3 id="二、测试Nodejs是否安装成功"><a href="#二、测试Nodejs是否安装成功" class="headerlink" title="二、测试Nodejs是否安装成功"></a>二、测试Nodejs是否安装成功</h3><hr><h4 id="2-1-打开-cmd-下面两种方式皆可"><a href="#2-1-打开-cmd-下面两种方式皆可" class="headerlink" title="2.1 打开 cmd (下面两种方式皆可)"></a>2.1 打开 <span style='font-family:微软雅黑;background:white;font-size:16;color:blue;'>cmd</span> (下面两种方式皆可)</h4><h5 id="①Windows搜索框输入cmd"><a href="#①Windows搜索框输入cmd" class="headerlink" title="①Windows搜索框输入cmd"></a>①Windows搜索框输入cmd</h5><p><img src="https://img-blog.csdnimg.cn/img_convert/1a238423e5ce74f8b7efde5b0d8ccc2a.png" alt="2021/03/29/cmd"></p><h5 id="②-⌘-R-输入cmd-输入cmd"><a href="#②-⌘-R-输入cmd-输入cmd" class="headerlink" title="② ⌘ + R 输入cmd 输入cmd"></a>② <kbd>⌘</kbd> + <kbd>R</kbd> 输入cmd 输入cmd</h5><p><img src="https://img-blog.csdnimg.cn/img_convert/ef239de239fb7419a28fa53ad784995e.png" alt="2021/03/29/open-cmd"></p><h4 id="2-2-输入-node-v-及-npm-v-查看-node及npm版本"><a href="#2-2-输入-node-v-及-npm-v-查看-node及npm版本" class="headerlink" title="2.2 输入 node -v  及  npm -v 查看 node及npm版本"></a>2.2 输入 <code>node -v</code>  及  <code>npm -v </code>查看 node及npm版本</h4><p>​    可以看到node版本的正是<span style='font-family:微软雅黑;background:white;font-size:16;color:blue;'>14.16.0</span>，说明安装成功了。</p><p>​    并且自带安装了npm，但注意这个npm并不是最新版的npm版本</p><p><img src="https://img-blog.csdnimg.cn/img_convert/4af5e798aa9d37f2dfd3744675f41208.png" alt="2021/03/29/npm-v"></p><h3 id="三、设置npm源并安装-vue"><a href="#三、设置npm源并安装-vue" class="headerlink" title="三、设置npm源并安装 vue"></a>三、设置npm源并安装 vue</h3><hr><h5 id="3-1-更换npm源"><a href="#3-1-更换npm源" class="headerlink" title="3.1  更换npm源"></a>3.1  更换npm源</h5><p>因为npm默认使用的是国外的源，为了加快包的下载速度，我们可以设置为淘宝镜像源，命令如下：</p><pre class=" language-bash"><code class="language-bash"><span class="token function">npm</span> config <span class="token keyword">set</span> registry<span class="token operator">=</span>http://registry.npm.taobao.org</code></pre><h5 id="3-2-查看镜像源更换是否生效"><a href="#3-2-查看镜像源更换是否生效" class="headerlink" title="3.2  查看镜像源更换是否生效"></a>3.2  查看镜像源更换是否生效</h5><pre class=" language-bash"><code class="language-bash"><span class="token function">npm</span> config get registry</code></pre><p><img src="https://img-blog.csdnimg.cn/img_convert/724fd3f35b9cfe323d21f4362ff0afbe.png" alt="2021/03/29/taobao-registry"></p><h5 id="3-3-设置全局安装的路径位置"><a href="#3-3-设置全局安装的路径位置" class="headerlink" title="3.3 设置全局安装的路径位置"></a>3.3 设置全局安装的路径位置</h5><pre class=" language-bash"><code class="language-bash">// 1. 查看当前npm全局安装的位置<span class="token function">npm</span> config get prefix// 2. 设置npm全局安装的位置 <span class="token punctuation">(</span>%Your_Path% 替换为你想要安装的路径位置, 如 E:\Soft\nodejs<span class="token punctuation">)</span><span class="token function">npm</span> config <span class="token keyword">set</span> %Your_Path%// 3. 再次查看你npm全局安装的位置<span class="token function">npm</span> config get prefix// 查看npm所有配置<span class="token function">npm</span> config list -l</code></pre><h5 id="3-4-升级npm"><a href="#3-4-升级npm" class="headerlink" title="3.4 升级npm"></a>3.4 升级npm</h5><pre class=" language-bash"><code class="language-bash"><span class="token function">npm</span> <span class="token function">install</span> <span class="token function">npm</span> -g// 查看npm版本<span class="token function">npm</span> -v</code></pre><h5 id="3-5-安装vue"><a href="#3-5-安装vue" class="headerlink" title="3.5 安装vue"></a>3.5 安装vue</h5><pre class=" language-bash"><code class="language-bash"><span class="token function">npm</span> <span class="token function">install</span> vue vue/cli -g</code></pre><h5 id="3-6-查看是否安装成功"><a href="#3-6-查看是否安装成功" class="headerlink" title="3.6 查看是否安装成功"></a>3.6 查看是否安装成功</h5><p>输入以下命令查看已安装的包</p><pre class=" language-bash"><code class="language-bash"><span class="token function">npm</span> list -g</code></pre><p>可以看到有<span style='font-family:微软雅黑;font-size:16;color:green;'><a href="mailto:&#x76;&#117;&#x65;&#x40;&#x32;&#x2e;&#x36;&#x2e;&#49;&#x32;">&#x76;&#117;&#x65;&#x40;&#x32;&#x2e;&#x36;&#x2e;&#49;&#x32;</a></span>了，其实这已经可以跑前端的vue项目了 : )</p><p><img src="https://img-blog.csdnimg.cn/img_convert/ec3a039b553ecc9972f49c481325d6fa.png" alt="2021/03/30/npm-list"></p><h5 id="vue相关"><a href="#vue相关" class="headerlink" title="vue相关"></a>vue相关</h5><pre class=" language-bash"><code class="language-bash">// 启动vue可视化管理界面vue ui// 命令行创建新的vue项目应用 <span class="token punctuation">(</span><span class="token operator">&lt;</span>your_app_name<span class="token operator">></span> 换成项目小写名称,会新建一个目录<span class="token punctuation">)</span>vue create <span class="token operator">&lt;</span>your_app_name<span class="token operator">></span></code></pre><p>更多vue知识可以前往官网查看…<br>                  <a href="https://cn.vuejs.org/">Vue2</a> || <a href="https://www.vue3js.cn/docs/zh/">Vue3</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> node </tag>
+            
+            <tag> npm </tag>
+            
+        </tags>
       
     </entry>
     

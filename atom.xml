@@ -6,7 +6,7 @@
   <link href="https://hjwforever.github.io/atom.xml" rel="self"/>
   
   <link href="https://hjwforever.github.io/"/>
-  <updated>2021-05-06T03:07:12.349Z</updated>
+  <updated>2021-05-06T03:46:43.028Z</updated>
   <id>https://hjwforever.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hjwforever.github.io/posts/4c14.html"/>
     <id>https://hjwforever.github.io/posts/4c14.html</id>
     <published>2021-05-06T02:21:46.000Z</published>
-    <updated>2021-05-06T03:07:12.349Z</updated>
+    <updated>2021-05-06T03:46:43.028Z</updated>
     
     
       
@@ -35,6 +35,10 @@
     
     
     
+    <category term="git" scheme="https://hjwforever.github.io/tags/git/"/>
+    
+    <category term="代码管理" scheme="https://hjwforever.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
   </entry>
   
   <entry>
@@ -42,7 +46,7 @@
     <link href="https://hjwforever.github.io/posts/2347.html"/>
     <id>https://hjwforever.github.io/posts/2347.html</id>
     <published>2021-04-13T01:29:35.000Z</published>
-    <updated>2021-04-13T01:57:06.453Z</updated>
+    <updated>2021-05-06T03:46:36.473Z</updated>
     
     
       
@@ -56,48 +60,34 @@
     
     
     
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://hjwforever.github.io/posts/f82e.html"/>
-    <id>https://hjwforever.github.io/posts/f82e.html</id>
-    <published>2021-04-04T20:26:11.000Z</published>
-    <updated>2021-04-04T21:00:06.317Z</updated>
+    <category term="nest" scheme="https://hjwforever.github.io/tags/nest/"/>
     
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/2021/04/05/2233.jpg&quot; alt=&quot;test.png&quot;&gt;&lt;/p&gt;
-&lt;pre class=&quot;</summary>
-        
-      
-    
-    
-    
+    <category term="前端" scheme="https://hjwforever.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://hjwforever.github.io/posts/3eeb.html"/>
-    <id>https://hjwforever.github.io/posts/3eeb.html</id>
-    <published>2021-04-04T17:08:40.339Z</published>
-    <updated>2021-04-04T19:04:55.773Z</updated>
+    <title>node、npm及vue的下载、安装及配置</title>
+    <link href="https://hjwforever.github.io/posts/6377.html"/>
+    <id>https://hjwforever.github.io/posts/6377.html</id>
+    <published>2021-03-30T03:35:50.000Z</published>
+    <updated>2021-05-06T03:46:27.540Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;nodejs官网及安装包链接&quot;&gt;&lt;a href=&quot;#nodejs官网及安装包链接&quot; class=&quot;headerlink&quot; title=&quot;nodejs官网及安装包链接&quot;&gt;&lt;/a&gt;nodejs官网及安装包链接&lt;/h3&gt;&lt;p&gt;&lt;a</summary>
         
       
     
     
     
+    
+    <category term="node" scheme="https://hjwforever.github.io/tags/node/"/>
+    
+    <category term="npm" scheme="https://hjwforever.github.io/tags/npm/"/>
     
   </entry>
   
