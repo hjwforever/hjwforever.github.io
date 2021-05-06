@@ -3,11 +3,11 @@
   <title>hjwforever</title>
   
   <subtitle>人生意何存，所思即所在٩(⑉Ծ^Ծ⑉)ᕗ</subtitle>
-  <link href="https://hjwforever.github.io/atom.xml" rel="self"/>
+  <link href="https://hjwforever.cf/atom.xml" rel="self"/>
   
-  <link href="https://hjwforever.github.io/"/>
+  <link href="https://hjwforever.cf/"/>
   <updated>2021-05-06T03:46:43.028Z</updated>
-  <id>https://hjwforever.github.io/</id>
+  <id>https://hjwforever.cf/</id>
   
   <author>
     <name>hjwforever</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Git趣味学习</title>
-    <link href="https://hjwforever.github.io/posts/4c14.html"/>
-    <id>https://hjwforever.github.io/posts/4c14.html</id>
+    <link href="https://hjwforever.cf/posts/4c14.html"/>
+    <id>https://hjwforever.cf/posts/4c14.html</id>
     <published>2021-05-06T02:21:46.000Z</published>
     <updated>2021-05-06T03:46:43.028Z</updated>
     
@@ -35,18 +35,18 @@
     
     
     
-    <category term="git" scheme="https://hjwforever.github.io/tags/git/"/>
+    <category term="git" scheme="https://hjwforever.cf/tags/git/"/>
     
-    <category term="代码管理" scheme="https://hjwforever.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    <category term="代码管理" scheme="https://hjwforever.cf/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>JS日期格式化</title>
-    <link href="https://hjwforever.github.io/posts/5f64.html"/>
-    <id>https://hjwforever.github.io/posts/5f64.html</id>
+    <link href="https://hjwforever.cf/posts/5f64.html"/>
+    <id>https://hjwforever.cf/posts/5f64.html</id>
     <published>2021-05-04T10:47:39.000Z</published>
-    <updated>2021-05-06T11:31:39.963Z</updated>
+    <updated>2021-05-06T11:32:31.661Z</updated>
     
     
       
@@ -60,16 +60,16 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://hjwforever.github.io/tags/js/"/>
+    <category term="js" scheme="https://hjwforever.cf/tags/js/"/>
     
   </entry>
   
   <entry>
     <title>Nestjs 安装及使用</title>
-    <link href="https://hjwforever.github.io/posts/2347.html"/>
-    <id>https://hjwforever.github.io/posts/2347.html</id>
+    <link href="https://hjwforever.cf/posts/2347.html"/>
+    <id>https://hjwforever.cf/posts/2347.html</id>
     <published>2021-04-13T01:29:35.000Z</published>
     <updated>2021-05-06T03:46:36.473Z</updated>
     
@@ -85,16 +85,16 @@
     
     
     
-    <category term="nest" scheme="https://hjwforever.github.io/tags/nest/"/>
+    <category term="nest" scheme="https://hjwforever.cf/tags/nest/"/>
     
-    <category term="前端" scheme="https://hjwforever.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>node、npm及vue的下载、安装及配置</title>
-    <link href="https://hjwforever.github.io/posts/6377.html"/>
-    <id>https://hjwforever.github.io/posts/6377.html</id>
+    <link href="https://hjwforever.cf/posts/6377.html"/>
+    <id>https://hjwforever.cf/posts/6377.html</id>
     <published>2021-03-30T03:35:50.000Z</published>
     <updated>2021-05-06T03:46:56.347Z</updated>
     
@@ -110,9 +110,9 @@
     
     
     
-    <category term="node" scheme="https://hjwforever.github.io/tags/node/"/>
+    <category term="node" scheme="https://hjwforever.cf/tags/node/"/>
     
-    <category term="npm" scheme="https://hjwforever.github.io/tags/npm/"/>
+    <category term="npm" scheme="https://hjwforever.cf/tags/npm/"/>
     
   </entry>
   
