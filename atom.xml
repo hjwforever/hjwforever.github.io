@@ -6,7 +6,7 @@
   <link href="https://hjwforever.cf/atom.xml" rel="self"/>
   
   <link href="https://hjwforever.cf/"/>
-  <updated>2021-07-25T07:01:34.817Z</updated>
+  <updated>2021-07-27T08:36:23.918Z</updated>
   <id>https://hjwforever.cf/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Golang安装教程【Windows/Linux】</title>
+    <link href="https://hjwforever.cf/posts/cd3e.html"/>
+    <id>https://hjwforever.cf/posts/cd3e.html</id>
+    <published>2021-05-23T10:47:46.000Z</published>
+    <updated>2021-07-27T08:36:23.918Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Windows下安装Go&quot;&gt;&lt;a href=&quot;#Windows下安装Go&quot; class=&quot;headerlink&quot; title=&quot;Windows下安装Go&quot;&gt;&lt;/a&gt;Windows下安装Go&lt;/h2&gt;&lt;h4 id=&quot;1-进入官网下载界面&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="编程语言" scheme="https://hjwforever.cf/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="go" scheme="https://hjwforever.cf/tags/go/"/>
+    
+    <category term="后端" scheme="https://hjwforever.cf/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="安装教程" scheme="https://hjwforever.cf/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux·创建服务器安全登录账户</title>
     <link href="https://hjwforever.cf/posts/6dec.html"/>
     <id>https://hjwforever.cf/posts/6dec.html</id>
-    <published>2021-06-20T06:38:20.000Z</published>
-    <updated>2021-07-25T07:01:34.817Z</updated>
+    <published>2021-05-20T06:38:20.000Z</published>
+    <updated>2021-07-27T07:58:20.787Z</updated>
     
     
       
@@ -51,7 +80,7 @@
     <link href="https://hjwforever.cf/posts/4c14.html"/>
     <id>https://hjwforever.cf/posts/4c14.html</id>
     <published>2021-05-18T02:21:46.000Z</published>
-    <updated>2021-07-25T06:47:19.177Z</updated>
+    <updated>2021-07-27T07:57:59.003Z</updated>
     
     
       
@@ -64,6 +93,12 @@
     
     
     
+    <category term="项目开发工程化" scheme="https://hjwforever.cf/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%8C%96/"/>
+    
+    
+    <category term="git" scheme="https://hjwforever.cf/tags/git/"/>
+    
+    <category term="版本管理" scheme="https://hjwforever.cf/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
@@ -126,7 +161,7 @@
     <link href="https://hjwforever.cf/posts/6377.html"/>
     <id>https://hjwforever.cf/posts/6377.html</id>
     <published>2021-03-30T03:35:50.000Z</published>
-    <updated>2021-07-25T06:34:47.857Z</updated>
+    <updated>2021-07-27T07:57:51.770Z</updated>
     
     
       
@@ -141,6 +176,8 @@
     
     <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
+    
+    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
     
     <category term="node" scheme="https://hjwforever.cf/tags/node/"/>
     
