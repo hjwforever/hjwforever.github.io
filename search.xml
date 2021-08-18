@@ -143,6 +143,35 @@
     
     
     <entry>
+      <title>Git 报错error:bad signature 0x00000000</title>
+      <link href="posts/bc44.html"/>
+      <url>posts/bc44.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="情景描述"><a href="#情景描述" class="headerlink" title="情景描述"></a>情景描述</h3><p>强制关机并重启后，使用git提交代码时，git直接报错如下，特此记录。</p><pre class=" language-bash"><code class="language-bash">error: bad signature 0x00000000fatal: index <span class="token function">file</span> corrupt</code></pre><p><img src="https://cdn.jsdelivr.net/gh/hjwforever/images@main//img/2021/05/16/115212.png" alt="git-error"></p><h3 id="原因分析："><a href="#原因分析：" class="headerlink" title="原因分析："></a>原因分析：</h3><p><code>index file</code>在 git 里面一般指的是 <code>.git/index</code> 这个文件，这个文件保存的是**暂存区的信息(索引信息)**。</p><p><strong>报错说明这个文件已经损坏了</strong>。</p><h3 id="解决方案："><a href="#解决方案：" class="headerlink" title="解决方案："></a>解决方案：</h3><p><strong>直接删除这个文件，然后重启git，可以执行如下命令：</strong></p><ol><li><p>删除 .git/index 文件 (索引文件)， Linux环境代码如下（Windows环境直接删除该文件）</p><pre class=" language-bash"><code class="language-bash"><span class="token function">rm</span> -f .git/index <span class="token comment" spellcheck="true"># 如果为Windows环境下, 直接删除.git/index这个文件即可</span></code></pre></li><li><p>重启git</p><pre class=" language-bash"><code class="language-bash"><span class="token function">git</span> reset <span class="token comment" spellcheck="true"># 或者使用 git read-tree </span></code></pre></li></ol><h3 id="总结："><a href="#总结：" class="headerlink" title="总结："></a>总结：</h3><ul><li><p>强制关机导致git索引文件损坏， 报错后可以将索引文件删除并重启git。</p></li><li><p>注意在保存代码，退出编辑后再关机，防止破坏工作区索引文件。</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题汇总 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
+            
+            <tag> 版本管理 </tag>
+            
+            <tag> 报错解决 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>JS日期格式化</title>
       <link href="posts/5f64.html"/>
       <url>posts/5f64.html</url>

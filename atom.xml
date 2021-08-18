@@ -157,6 +157,36 @@
   </entry>
   
   <entry>
+    <title>Git 报错error:bad signature 0x00000000</title>
+    <link href="https://hjwforever.cf/posts/bc44.html"/>
+    <id>https://hjwforever.cf/posts/bc44.html</id>
+    <published>2021-05-16T03:47:23.000Z</published>
+    <updated>2021-08-18T04:06:50.542Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;情景描述&quot;&gt;&lt;a href=&quot;#情景描述&quot; class=&quot;headerlink&quot; title=&quot;情景描述&quot;&gt;&lt;/a&gt;情景描述&lt;/h3&gt;&lt;p&gt;强制关机并重启后，使用git提交代码时，git直接报错如下，特此记录。&lt;/p&gt;
+&lt;pre class=&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="问题汇总" scheme="https://hjwforever.cf/categories/%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+    
+    
+    <category term="git" scheme="https://hjwforever.cf/tags/git/"/>
+    
+    <category term="版本管理" scheme="https://hjwforever.cf/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="报错解决" scheme="https://hjwforever.cf/tags/%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JS日期格式化</title>
     <link href="https://hjwforever.cf/posts/5f64.html"/>
     <id>https://hjwforever.cf/posts/5f64.html</id>
