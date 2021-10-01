@@ -6,7 +6,7 @@
   <link href="https://hjwforever.cf/atom.xml" rel="self"/>
   
   <link href="https://hjwforever.cf/"/>
-  <updated>2021-09-25T17:47:42.965Z</updated>
+  <updated>2021-10-01T10:52:45.299Z</updated>
   <id>https://hjwforever.cf/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue EventBus事件总线的使用及注意事项</title>
+    <link href="https://hjwforever.cf/posts/26su.html"/>
+    <id>https://hjwforever.cf/posts/26su.html</id>
+    <published>2021-10-01T07:19:24.000Z</published>
+    <updated>2021-10-01T10:52:45.299Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、eventBus的介绍&quot;&gt;&lt;a href=&quot;#一、eventBus的介绍&quot; class=&quot;headerlink&quot; title=&quot;一、eventBus的介绍&quot;&gt;&lt;/a&gt;一、eventBus的介绍&lt;/h2&gt;&lt;p&gt;​   </summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="eventBus" scheme="https://hjwforever.cf/tags/eventBus/"/>
+    
+    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="vue" scheme="https://hjwforever.cf/tags/vue/"/>
+    
+  </entry>
   
   <entry>
     <title>浏览器交互 | 十个或许对你有用的WEB API</title>
@@ -75,7 +104,7 @@
     <link href="https://hjwforever.cf/posts/cef4.html"/>
     <id>https://hjwforever.cf/posts/cef4.html</id>
     <published>2021-06-15T03:41:20.000Z</published>
-    <updated>2021-07-30T08:52:21.972Z</updated>
+    <updated>2021-08-08T08:47:52.942Z</updated>
     
     
       
@@ -131,7 +160,7 @@
     <link href="https://hjwforever.cf/posts/6dec.html"/>
     <id>https://hjwforever.cf/posts/6dec.html</id>
     <published>2021-05-20T06:38:20.000Z</published>
-    <updated>2021-07-27T07:58:20.787Z</updated>
+    <updated>2021-07-27T08:40:34.213Z</updated>
     
     
       
@@ -139,7 +168,7 @@
         
         
     <summary type="html">&lt;h2 id=&quot;本地创建公钥&quot;&gt;&lt;a href=&quot;#本地创建公钥&quot; class=&quot;headerlink&quot; title=&quot;本地创建公钥&quot;&gt;&lt;/a&gt;本地创建公钥&lt;/h2&gt;&lt;p&gt;首先在本地机器生成自己的ssh登录所需要的公钥，具体命令如下：&lt;/p&gt;
-&lt;pre class=&quot;</summary>
+&lt;pre</summary>
         
       
     
@@ -196,7 +225,7 @@
         
         
     <summary type="html">&lt;h3 id=&quot;情景描述&quot;&gt;&lt;a href=&quot;#情景描述&quot; class=&quot;headerlink&quot; title=&quot;情景描述&quot;&gt;&lt;/a&gt;情景描述&lt;/h3&gt;&lt;p&gt;强制关机并重启后，使用git提交代码时，git直接报错如下，特此记录。&lt;/p&gt;
-&lt;pre class=&quot;</summary>
+&lt;pre</summary>
         
       
     
@@ -261,9 +290,9 @@
     <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="nest" scheme="https://hjwforever.cf/tags/nest/"/>
-    
     <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="nest" scheme="https://hjwforever.cf/tags/nest/"/>
     
   </entry>
   
