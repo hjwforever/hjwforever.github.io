@@ -3,14 +3,14 @@
   <title>码海拾贝</title>
   
   <subtitle>人生意何存，所思即所在٩(⑉Ծ^Ծ⑉)ᕗ</subtitle>
-  <link href="https://hjwforever.cf/atom.xml" rel="self"/>
+  <link href="https://aruoxi.com/atom.xml" rel="self"/>
   
-  <link href="https://hjwforever.cf/"/>
-  <updated>2021-10-03T05:18:58.952Z</updated>
-  <id>https://hjwforever.cf/</id>
+  <link href="https://aruoxi.com/"/>
+  <updated>2021-11-22T09:32:10.830Z</updated>
+  <id>https://aruoxi.com/</id>
   
   <author>
-    <name>hjwforever</name>
+    <name>hjwforever | 码海拾贝</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>JS 实现监听器Listener类</title>
-    <link href="https://hjwforever.cf/posts/5def.html"/>
-    <id>https://hjwforever.cf/posts/5def.html</id>
+    <link href="https://aruoxi.com/posts/5def.html"/>
+    <id>https://aruoxi.com/posts/5def.html</id>
     <published>2021-10-03T02:37:03.000Z</published>
-    <updated>2021-10-03T05:18:58.952Z</updated>
+    <updated>2021-11-22T09:32:10.830Z</updated>
     
     
       
@@ -34,23 +34,23 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="eventBus" scheme="https://hjwforever.cf/tags/eventBus/"/>
+    <category term="eventBus" scheme="https://aruoxi.com/tags/eventBus/"/>
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://hjwforever.cf/tags/js/"/>
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
     
-    <category term="源码实现" scheme="https://hjwforever.cf/tags/%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0/"/>
+    <category term="源码实现" scheme="https://aruoxi.com/tags/%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0/"/>
     
   </entry>
   
   <entry>
     <title>Vue EventBus事件总线的使用及注意事项</title>
-    <link href="https://hjwforever.cf/posts/26su.html"/>
-    <id>https://hjwforever.cf/posts/26su.html</id>
+    <link href="https://aruoxi.com/posts/26su.html"/>
+    <id>https://aruoxi.com/posts/26su.html</id>
     <published>2021-10-01T07:19:24.000Z</published>
     <updated>2021-10-03T04:38:08.155Z</updated>
     
@@ -65,21 +65,21 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="eventBus" scheme="https://hjwforever.cf/tags/eventBus/"/>
+    <category term="eventBus" scheme="https://aruoxi.com/tags/eventBus/"/>
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="vue" scheme="https://hjwforever.cf/tags/vue/"/>
+    <category term="vue" scheme="https://aruoxi.com/tags/vue/"/>
     
   </entry>
   
   <entry>
     <title>浏览器交互 | 十个或许对你有用的WEB API</title>
-    <link href="https://hjwforever.cf/posts/48be.html"/>
-    <id>https://hjwforever.cf/posts/48be.html</id>
+    <link href="https://aruoxi.com/posts/48be.html"/>
+    <id>https://aruoxi.com/posts/48be.html</id>
     <published>2021-09-23T08:21:15.000Z</published>
     <updated>2021-09-25T17:47:42.965Z</updated>
     
@@ -94,19 +94,19 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://hjwforever.cf/tags/js/"/>
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
     
   </entry>
   
   <entry>
     <title>JS 函数尾递归优化</title>
-    <link href="https://hjwforever.cf/posts/a0c0.html"/>
-    <id>https://hjwforever.cf/posts/a0c0.html</id>
+    <link href="https://aruoxi.com/posts/a0c0.html"/>
+    <id>https://aruoxi.com/posts/a0c0.html</id>
     <published>2021-07-13T08:48:24.000Z</published>
     <updated>2021-08-09T03:22:49.568Z</updated>
     
@@ -121,19 +121,19 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://hjwforever.cf/tags/js/"/>
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
     
   </entry>
   
   <entry>
     <title>JS数据类型及存储方式</title>
-    <link href="https://hjwforever.cf/posts/cef4.html"/>
-    <id>https://hjwforever.cf/posts/cef4.html</id>
+    <link href="https://aruoxi.com/posts/cef4.html"/>
+    <id>https://aruoxi.com/posts/cef4.html</id>
     <published>2021-06-15T03:41:20.000Z</published>
     <updated>2021-08-08T08:47:52.942Z</updated>
     
@@ -148,19 +148,19 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://hjwforever.cf/tags/js/"/>
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
     
   </entry>
   
   <entry>
     <title>Golang安装教程【Windows/Linux】</title>
-    <link href="https://hjwforever.cf/posts/cd3e.html"/>
-    <id>https://hjwforever.cf/posts/cd3e.html</id>
+    <link href="https://aruoxi.com/posts/cd3e.html"/>
+    <id>https://aruoxi.com/posts/cd3e.html</id>
     <published>2021-05-23T10:47:46.000Z</published>
     <updated>2021-07-27T08:36:23.918Z</updated>
     
@@ -175,21 +175,21 @@
     
     
     
-    <category term="编程语言" scheme="https://hjwforever.cf/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    <category term="编程语言" scheme="https://aruoxi.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
     
     
-    <category term="go" scheme="https://hjwforever.cf/tags/go/"/>
+    <category term="go" scheme="https://aruoxi.com/tags/go/"/>
     
-    <category term="后端" scheme="https://hjwforever.cf/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://aruoxi.com/tags/%E5%90%8E%E7%AB%AF/"/>
     
-    <category term="安装教程" scheme="https://hjwforever.cf/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    <category term="安装教程" scheme="https://aruoxi.com/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Linux·创建服务器安全登录账户</title>
-    <link href="https://hjwforever.cf/posts/6dec.html"/>
-    <id>https://hjwforever.cf/posts/6dec.html</id>
+    <link href="https://aruoxi.com/posts/6dec.html"/>
+    <id>https://aruoxi.com/posts/6dec.html</id>
     <published>2021-05-20T06:38:20.000Z</published>
     <updated>2021-07-27T08:40:34.213Z</updated>
     
@@ -205,21 +205,21 @@
     
     
     
-    <category term="Linux" scheme="https://hjwforever.cf/categories/Linux/"/>
+    <category term="Linux" scheme="https://aruoxi.com/categories/Linux/"/>
     
     
-    <category term="安全" scheme="https://hjwforever.cf/tags/%E5%AE%89%E5%85%A8/"/>
+    <category term="安全" scheme="https://aruoxi.com/tags/%E5%AE%89%E5%85%A8/"/>
     
-    <category term="linux" scheme="https://hjwforever.cf/tags/linux/"/>
+    <category term="linux" scheme="https://aruoxi.com/tags/linux/"/>
     
-    <category term="ssh" scheme="https://hjwforever.cf/tags/ssh/"/>
+    <category term="ssh" scheme="https://aruoxi.com/tags/ssh/"/>
     
   </entry>
   
   <entry>
     <title>Git趣味学习</title>
-    <link href="https://hjwforever.cf/posts/4c14.html"/>
-    <id>https://hjwforever.cf/posts/4c14.html</id>
+    <link href="https://aruoxi.com/posts/4c14.html"/>
+    <id>https://aruoxi.com/posts/4c14.html</id>
     <published>2021-05-18T02:21:46.000Z</published>
     <updated>2021-07-27T07:57:59.003Z</updated>
     
@@ -234,19 +234,19 @@
     
     
     
-    <category term="项目开发工程化" scheme="https://hjwforever.cf/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%8C%96/"/>
+    <category term="项目开发工程化" scheme="https://aruoxi.com/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%8C%96/"/>
     
     
-    <category term="git" scheme="https://hjwforever.cf/tags/git/"/>
+    <category term="git" scheme="https://aruoxi.com/tags/git/"/>
     
-    <category term="版本管理" scheme="https://hjwforever.cf/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    <category term="版本管理" scheme="https://aruoxi.com/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Git 报错error:bad signature 0x00000000</title>
-    <link href="https://hjwforever.cf/posts/bc44.html"/>
-    <id>https://hjwforever.cf/posts/bc44.html</id>
+    <link href="https://aruoxi.com/posts/bc44.html"/>
+    <id>https://aruoxi.com/posts/bc44.html</id>
     <published>2021-05-16T03:47:23.000Z</published>
     <updated>2021-08-18T04:09:17.884Z</updated>
     
@@ -262,21 +262,21 @@
     
     
     
-    <category term="问题汇总" scheme="https://hjwforever.cf/categories/%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+    <category term="问题汇总" scheme="https://aruoxi.com/categories/%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
     
     
-    <category term="git" scheme="https://hjwforever.cf/tags/git/"/>
+    <category term="git" scheme="https://aruoxi.com/tags/git/"/>
     
-    <category term="版本管理" scheme="https://hjwforever.cf/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    <category term="版本管理" scheme="https://aruoxi.com/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
     
-    <category term="报错解决" scheme="https://hjwforever.cf/tags/%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/"/>
+    <category term="报错解决" scheme="https://aruoxi.com/tags/%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/"/>
     
   </entry>
   
   <entry>
     <title>JS日期格式化</title>
-    <link href="https://hjwforever.cf/posts/5f64.html"/>
-    <id>https://hjwforever.cf/posts/5f64.html</id>
+    <link href="https://aruoxi.com/posts/5f64.html"/>
+    <id>https://aruoxi.com/posts/5f64.html</id>
     <published>2021-05-04T10:47:39.000Z</published>
     <updated>2021-07-25T06:24:34.399Z</updated>
     
@@ -291,19 +291,19 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://hjwforever.cf/tags/js/"/>
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
     
   </entry>
   
   <entry>
     <title>Nestjs 安装及使用</title>
-    <link href="https://hjwforever.cf/posts/2347.html"/>
-    <id>https://hjwforever.cf/posts/2347.html</id>
+    <link href="https://aruoxi.com/posts/2347.html"/>
+    <id>https://aruoxi.com/posts/2347.html</id>
     <published>2021-04-13T01:29:35.000Z</published>
     <updated>2021-07-25T06:24:46.246Z</updated>
     
@@ -318,19 +318,19 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="nest" scheme="https://hjwforever.cf/tags/nest/"/>
+    <category term="nest" scheme="https://aruoxi.com/tags/nest/"/>
     
   </entry>
   
   <entry>
     <title>node、npm及vue的下载、安装及配置</title>
-    <link href="https://hjwforever.cf/posts/6377.html"/>
-    <id>https://hjwforever.cf/posts/6377.html</id>
+    <link href="https://aruoxi.com/posts/6377.html"/>
+    <id>https://aruoxi.com/posts/6377.html</id>
     <published>2021-03-30T03:35:50.000Z</published>
     <updated>2021-07-27T07:57:51.770Z</updated>
     
@@ -345,21 +345,21 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="node" scheme="https://hjwforever.cf/tags/node/"/>
+    <category term="node" scheme="https://aruoxi.com/tags/node/"/>
     
-    <category term="npm" scheme="https://hjwforever.cf/tags/npm/"/>
+    <category term="npm" scheme="https://aruoxi.com/tags/npm/"/>
     
   </entry>
   
   <entry>
     <title>JS Canvas绘制正N边形</title>
-    <link href="https://hjwforever.cf/posts/canvas-n-sided.html"/>
-    <id>https://hjwforever.cf/posts/canvas-n-sided.html</id>
+    <link href="https://aruoxi.com/posts/canvas-n-sided.html"/>
+    <id>https://aruoxi.com/posts/canvas-n-sided.html</id>
     <published>2021-03-18T10:57:32.000Z</published>
     <updated>2021-08-18T11:25:11.815Z</updated>
     
@@ -375,14 +375,14 @@
     
     
     
-    <category term="前端" scheme="https://hjwforever.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://hjwforever.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://hjwforever.cf/tags/js/"/>
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
     
-    <category term="canvas" scheme="https://hjwforever.cf/tags/canvas/"/>
+    <category term="canvas" scheme="https://aruoxi.com/tags/canvas/"/>
     
   </entry>
   
