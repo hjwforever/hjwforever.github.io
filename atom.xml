@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hjwforever</title>
+  
+  <subtitle>人生意何存，所思即所在٩(⑉Ծ^Ծ⑉)ᕗ</subtitle>
+  <link href="https://aruoxi.com/atom.xml" rel="self"/>
+  
+  <link href="https://aruoxi.com/"/>
+  <updated>2022-03-06T12:12:33.971Z</updated>
+  <id>https://aruoxi.com/</id>
+  
+  <author>
+    <name>hjwforever</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Podman vs Docker | Podman简介及安装</title>
+    <link href="https://aruoxi.com/posts/fad3.html"/>
+    <id>https://aruoxi.com/posts/fad3.html</id>
+    <published>2022-01-12T12:05:31.000Z</published>
+    <updated>2022-03-06T12:12:33.971Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-前言&quot;&gt;&lt;a href=&quot;#1-前言&quot; class=&quot;headerlink&quot; title=&quot;1. 前言&quot;&gt;&lt;/a&gt;1. 前言&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="项目开发工程化" scheme="https://aruoxi.com/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%8C%96/"/>
+    
+    
+    <category term="docker" scheme="https://aruoxi.com/tags/docker/"/>
+    
+    <category term="k8s" scheme="https://aruoxi.com/tags/k8s/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS 实现监听器Listener类</title>
+    <link href="https://aruoxi.com/posts/5def.html"/>
+    <id>https://aruoxi.com/posts/5def.html</id>
+    <published>2021-10-03T02:37:03.000Z</published>
+    <updated>2022-03-06T13:03:05.610Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;​    几天前不是谈到了事件总线&lt;code&gt;eventBus&lt;/code&gt;吗，</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="eventBus" scheme="https://aruoxi.com/tags/eventBus/"/>
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
+    
+    <category term="源码实现" scheme="https://aruoxi.com/tags/%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue EventBus事件总线的使用及注意事项</title>
+    <link href="https://aruoxi.com/posts/26su.html"/>
+    <id>https://aruoxi.com/posts/26su.html</id>
+    <published>2021-10-01T07:19:24.000Z</published>
+    <updated>2022-03-04T18:39:31.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、eventBus的介绍&quot;&gt;&lt;a href=&quot;#一、eventBus的介绍&quot; class=&quot;headerlink&quot; title=&quot;一、eventBus的介绍&quot;&gt;&lt;/a&gt;一、eventBus的介绍&lt;/h2&gt;&lt;p&gt;​   </summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="eventBus" scheme="https://aruoxi.com/tags/eventBus/"/>
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="vue" scheme="https://aruoxi.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器交互 | 十个或许对你有用的WEB API</title>
+    <link href="https://aruoxi.com/posts/48be.html"/>
+    <id>https://aruoxi.com/posts/48be.html</id>
+    <published>2021-09-23T08:21:15.000Z</published>
+    <updated>2022-03-04T18:39:31.746Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;​    &lt;strong&gt;&lt;code&gt;API&lt;/code&gt;&lt;/strong&gt; 是 &lt;strong&gt;&lt;code&gt;Application</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS 函数尾递归优化</title>
+    <link href="https://aruoxi.com/posts/a0c0.html"/>
+    <id>https://aruoxi.com/posts/a0c0.html</id>
+    <published>2021-07-13T08:48:24.000Z</published>
+    <updated>2022-03-04T18:39:31.744Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;JS-函数尾递归优化&quot;&gt;&lt;a href=&quot;#JS-函数尾递归优化&quot; class=&quot;headerlink&quot; title=&quot;JS 函数尾递归优化&quot;&gt;&lt;/a&gt;JS</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS数据类型及存储方式</title>
+    <link href="https://aruoxi.com/posts/cef4.html"/>
+    <id>https://aruoxi.com/posts/cef4.html</id>
+    <published>2021-06-15T03:41:20.000Z</published>
+    <updated>2022-03-04T18:39:31.744Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;JS数据类型及存储方式&quot;&gt;&lt;a href=&quot;#JS数据类型及存储方式&quot; class=&quot;headerlink&quot; title=&quot;JS数据类型及存储方式&quot;&gt;&lt;/a&gt;JS数据类型及存储方式&lt;/h1&gt;&lt;h2 id=&quot;一、数据类型&quot;&gt;&lt;a href=&quot;#一、数据类型&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang安装教程【Windows/Linux】</title>
+    <link href="https://aruoxi.com/posts/cd3e.html"/>
+    <id>https://aruoxi.com/posts/cd3e.html</id>
+    <published>2021-05-23T10:47:46.000Z</published>
+    <updated>2022-03-04T18:39:31.743Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Windows下安装Go&quot;&gt;&lt;a href=&quot;#Windows下安装Go&quot; class=&quot;headerlink&quot; title=&quot;Windows下安装Go&quot;&gt;&lt;/a&gt;Windows下安装Go&lt;/h2&gt;&lt;h4 id=&quot;1-进入官网下载界面&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="编程语言" scheme="https://aruoxi.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="go" scheme="https://aruoxi.com/tags/go/"/>
+    
+    <category term="后端" scheme="https://aruoxi.com/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="安装教程" scheme="https://aruoxi.com/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux·创建服务器安全登录账户</title>
+    <link href="https://aruoxi.com/posts/6dec.html"/>
+    <id>https://aruoxi.com/posts/6dec.html</id>
+    <published>2021-05-20T06:38:20.000Z</published>
+    <updated>2022-03-04T18:39:31.745Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;本地创建公钥&quot;&gt;&lt;a href=&quot;#本地创建公钥&quot; class=&quot;headerlink&quot; title=&quot;本地创建公钥&quot;&gt;&lt;/a&gt;本地创建公钥&lt;/h2&gt;&lt;p&gt;首先在本地机器生成自己的ssh登录所需要的公钥，具体命令如下：&lt;/p&gt;
+&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://aruoxi.com/categories/Linux/"/>
+    
+    
+    <category term="安全" scheme="https://aruoxi.com/tags/%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="linux" scheme="https://aruoxi.com/tags/linux/"/>
+    
+    <category term="ssh" scheme="https://aruoxi.com/tags/ssh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git趣味学习</title>
+    <link href="https://aruoxi.com/posts/4c14.html"/>
+    <id>https://aruoxi.com/posts/4c14.html</id>
+    <published>2021-05-18T02:21:46.000Z</published>
+    <updated>2022-03-04T18:39:31.743Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;代码管理&quot;&gt;&lt;a href=&quot;#代码管理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="项目开发工程化" scheme="https://aruoxi.com/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%8C%96/"/>
+    
+    
+    <category term="git" scheme="https://aruoxi.com/tags/git/"/>
+    
+    <category term="版本管理" scheme="https://aruoxi.com/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 报错error:bad signature 0x00000000</title>
+    <link href="https://aruoxi.com/posts/bc44.html"/>
+    <id>https://aruoxi.com/posts/bc44.html</id>
+    <published>2021-05-16T03:47:23.000Z</published>
+    <updated>2022-03-04T18:39:31.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;情景描述&quot;&gt;&lt;a href=&quot;#情景描述&quot; class=&quot;headerlink&quot; title=&quot;情景描述&quot;&gt;&lt;/a&gt;情景描述&lt;/h3&gt;&lt;p&gt;强制关机并重启后，使用git提交代码时，git直接报错如下，特此记录。&lt;/p&gt;
+&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="问题汇总" scheme="https://aruoxi.com/categories/%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+    
+    
+    <category term="git" scheme="https://aruoxi.com/tags/git/"/>
+    
+    <category term="版本管理" scheme="https://aruoxi.com/tags/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="报错解决" scheme="https://aruoxi.com/tags/%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS日期格式化</title>
+    <link href="https://aruoxi.com/posts/5f64.html"/>
+    <id>https://aruoxi.com/posts/5f64.html</id>
+    <published>2021-05-04T10:47:39.000Z</published>
+    <updated>2022-03-04T18:39:31.745Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;JS-日期时间格式化&quot;&gt;&lt;a href=&quot;#JS-日期时间格式化&quot; class=&quot;headerlink&quot; title=&quot;JS 日期时间格式化&quot;&gt;&lt;/a&gt;JS 日期时间格式化&lt;/h2&gt;&lt;p&gt;  在前端项目中， 我们往往需要对新建的时间对象(如 &lt;code&gt;new</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nestjs 安装及使用</title>
+    <link href="https://aruoxi.com/posts/2347.html"/>
+    <id>https://aruoxi.com/posts/2347.html</id>
+    <published>2021-04-13T01:29:35.000Z</published>
+    <updated>2022-03-04T18:39:31.745Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Nestjs-安装及使用&quot;&gt;&lt;a href=&quot;#Nestjs-安装及使用&quot; class=&quot;headerlink&quot; title=&quot;Nestjs 安装及使用&quot;&gt;&lt;/a&gt;Nestjs 安装及使用&lt;/h1&gt;&lt;h2 id=&quot;Nestjs-简介&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="nest" scheme="https://aruoxi.com/tags/nest/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>node、npm及vue的下载、安装及配置</title>
+    <link href="https://aruoxi.com/posts/6377.html"/>
+    <id>https://aruoxi.com/posts/6377.html</id>
+    <published>2021-03-30T03:35:50.000Z</published>
+    <updated>2022-03-04T18:39:31.746Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;nodejs官网及安装包链接&quot;&gt;&lt;a href=&quot;#nodejs官网及安装包链接&quot; class=&quot;headerlink&quot; title=&quot;nodejs官网及安装包链接&quot;&gt;&lt;/a&gt;nodejs官网及安装包链接&lt;/h3&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="node" scheme="https://aruoxi.com/tags/node/"/>
+    
+    <category term="npm" scheme="https://aruoxi.com/tags/npm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JS Canvas绘制正N边形</title>
+    <link href="https://aruoxi.com/posts/canvas-n-sided.html"/>
+    <id>https://aruoxi.com/posts/canvas-n-sided.html</id>
+    <published>2021-03-18T10:57:32.000Z</published>
+    <updated>2022-03-04T18:39:31.743Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;一、介绍&quot;&gt;&lt;a href=&quot;#一、介绍&quot; class=&quot;headerlink&quot; title=&quot;一、介绍&quot;&gt;&lt;/a&gt;一、介绍&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;canvas&amp;gt; 是 HTML5 新增的，一个可以使用脚本(通常为</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="前端" scheme="https://aruoxi.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://aruoxi.com/tags/js/"/>
+    
+    <category term="canvas" scheme="https://aruoxi.com/tags/canvas/"/>
+    
+  </entry>
+  
+</feed>
