@@ -6,7 +6,7 @@
   <link href="https://aruoxi.com/atom.xml" rel="self"/>
   
   <link href="https://aruoxi.com/"/>
-  <updated>2022-03-13T10:59:31.076Z</updated>
+  <updated>2022-03-26T12:45:11.037Z</updated>
   <id>https://aruoxi.com/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“Windows下打开Ubuntu子系统报错 “参考的对象类型不支持尝试的操作”</title>
+    <link href="https://aruoxi.com/posts/e3b3.html"/>
+    <id>https://aruoxi.com/posts/e3b3.html</id>
+    <published>2022-03-26T12:43:01.000Z</published>
+    <updated>2022-03-26T12:45:11.037Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构-链表</title>
+    <link href="https://aruoxi.com/posts/95c1.html"/>
+    <id>https://aruoxi.com/posts/95c1.html</id>
+    <published>2022-03-17T12:36:10.000Z</published>
+    <updated>2022-03-17T12:38:31.727Z</updated>
+    
+    
+    
+    
+    <category term="数据结构" scheme="https://aruoxi.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="https://aruoxi.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="算法" scheme="https://aruoxi.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="链表" scheme="https://aruoxi.com/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Podman vs Docker | Podman简介及安装</title>
@@ -135,7 +169,7 @@
     <link href="https://aruoxi.com/posts/a0c0.html"/>
     <id>https://aruoxi.com/posts/a0c0.html</id>
     <published>2021-07-13T08:48:24.000Z</published>
-    <updated>2022-03-04T18:39:31.744Z</updated>
+    <updated>2022-03-13T11:38:28.815Z</updated>
     
     
       

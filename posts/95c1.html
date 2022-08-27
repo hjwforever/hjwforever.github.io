@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Podman vs Docker | Podman简介及安装, HTML,CSS,JavaScript,Nodejs,React,Vue.js">
+    <meta name="keywords" content="数据结构-链表, HTML,CSS,JavaScript,Nodejs,React,Vue.js">
     <meta name="description" content="个人所得, 经验分享">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -27,7 +27,7 @@
 </script>
 
 
-    <title>Podman vs Docker | Podman简介及安装 | hjwforever</title>
+    <title>数据结构-链表 | hjwforever</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -322,12 +322,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/2.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/16.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">Podman vs Docker | Podman简介及安装</h1>
+                    <h1 class="description center-align post-title">数据结构-链表</h1>
                 </div>
             </div>
         </div>
@@ -443,12 +443,16 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/docker/">
-                                <span class="chip bg-color">docker</span>
+                            <a href="/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">
+                                <span class="chip bg-color">数据结构</span>
                             </a>
                         
-                            <a href="/tags/k8s/">
-                                <span class="chip bg-color">k8s</span>
+                            <a href="/tags/%E7%AE%97%E6%B3%95/">
+                                <span class="chip bg-color">算法</span>
+                            </a>
+                        
+                            <a href="/tags/%E9%93%BE%E8%A1%A8/">
+                                <span class="chip bg-color">链表</span>
                             </a>
                         
                     </div>
@@ -459,8 +463,8 @@
                     <div class="post-cate">
                         <i class="fas fa-bookmark fa-fw icon-category"></i>
                         
-                            <a href="/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%8C%96/" class="post-category">
-                                项目开发工程化
+                            <a href="/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" class="post-category">
+                                数据结构
                             </a>
                         
                     </div>
@@ -472,7 +476,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2022-01-12
+                    2022-03-17
                 </div>
                 
 
@@ -496,133 +500,7 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="1-前言"><a href="#1-前言" class="headerlink" title="1. 前言"></a>1. 前言</h2><p><a target="_blank" rel="noopener" href="https://podman.io/"><strong>podman</strong></a>在功能上与<a target="_blank" rel="noopener" href="https://www.docker.com/"><strong>docker</strong></a>不能说很像，只能说一模一样，甚至于你给podman取个别名为docker，你会发现这不就是docker吗？🤔接下来对比一下两者的异同吧。</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token builtin class-name">alias</span> <span class="token assign-left variable">docker</span><span class="token operator">=</span>podman<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h2 id="2-什么是Docker"><a href="#2-什么是Docker" class="headerlink" title="2. 什么是Docker"></a>2. 什么是Docker</h2><blockquote>
-<p><a target="_blank" rel="noopener" href="https://www.docker.com/"><em>Docker</em> </a>是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的镜像中，然后发布到任何流行的 Linux或Windows操作系统的机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。 by百度百科</p>
-</blockquote>
-<h2 id="3-什么是Podman"><a href="#3-什么是Podman" class="headerlink" title="3. 什么是Podman"></a>3. 什么是Podman</h2><p>​    <a target="_blank" rel="noopener" href="https://docs.podman.io/en/latest/">Podman</a> 是一个开源的 Linux 原生工具，旨在根据<a target="_blank" rel="noopener" href="https://opencontainers.org/">开放容器计划 （OCI）</a> 标准开发、管理和运行容器和 Pod。Podman 由 <a target="_blank" rel="noopener" href="https://www.redhat.com/en">Red Hat</a> 开发，是用户友好的容器编排器，是 RedHat 8 和 CentOS 8 自带的默认容器引擎。Podman 提供与 Docker 非常相似的功能。但是，它不需要在你的系统上运行任何守护进程，并且它也可以在没有root权限的情况下运行。实际上，它是<strong>一组命令行工具</strong>之一.</p>
-<p>​    这组命令行套件就是：</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="https://docs.podman.io/en/latest/">Podman</a>  - Pods 和容器映像管理器</li>
-<li><a target="_blank" rel="noopener" href="https://buildah.io/">Buildah</a> - 容器生成器</li>
-<li><a target="_blank" rel="noopener" href="https://github.com/containers/skopeo">Skopeo</a> - 容器映像检查管理器</li>
-<li><a target="_blank" rel="noopener" href="https://github.com/opencontainers/runc">runc</a> - 容器运行器和功能生成器到 podman 和 buildah</li>
-<li><a target="_blank" rel="noopener" href="https://github.com/containers/crun">crun</a> - 可选的运行时，可为无根容器提供更大的灵活性、控制力和安全性</li>
-</ul>
-<p>​    这些工具还可以与<strong>任何OCI兼容的容器引擎</strong>(如Docker)配合使用，从而可以轻松过渡到Podman或将其用于现有的Docker安装。</p>
-<blockquote>
-<p>那么，<strong>Kubernetes 可以使用 Podman 吗？</strong></p>
-</blockquote>
-<p>答案是可以的，而且<strong>在k8s中使用podman比使用Docker更好</strong>。这就要谈到它们之间的差异了。</p>
-<h2 id="4-Docker-vs-Podman"><a href="#4-Docker-vs-Podman" class="headerlink" title="4. Docker vs Podman"></a>4. Docker vs Podman</h2><p>Podman和Docker从使用上来说几乎是一模一样的，而他们的差异就在于底层。</p>
-<h3 id="不同1-架构设计不同"><a href="#不同1-架构设计不同" class="headerlink" title="不同1. 架构设计不同"></a>不同1. 架构设计不同</h3><blockquote>
-<p>Docker 有一个由用来调解客户与服务器逻辑的守护进程； 而Podman 不需要这个中介。</p>
-</blockquote>
-<ul>
-<li><p>Docker 使用<strong>守护程序</strong>（一个在后台运行的持续程序）来创建映像和运行容器。</p>
-</li>
-<li><p>Podman有一个无守护进程的的容器引擎<strong>，用于在 Linux 系统上进行开发、管理和运行 OCI Containers。 Containers 能以 root 模式运行，也</strong>能以非 root 模式运行**。</p>
-</li>
-</ul>
-<h3 id="不同2-安全性不同"><a href="#不同2-安全性不同" class="headerlink" title="不同2. 安全性不同"></a>不同2. 安全性不同</h3><ul>
-<li><p>Podman 允许容器的非 root 用户权限。无根容器被认为比具有 root 权限的容器更安全。Podman 中的容器默认没有 root 访问权限，这在 root 和非 root之间增加了一道天然屏障，从而提高了安全性。尽管如此，Podman仍然可以运行root和非 root容器。</p>
-</li>
-<li><p>而在 Docker 中，守护程序具有 root 权限，使其成为攻击者的首选网关。</p>
-</li>
-</ul>
-<h3 id="不同3-启动方式不同"><a href="#不同3-启动方式不同" class="headerlink" title="不同3. 启动方式不同"></a>不同3. 启动方式不同</h3><ul>
-<li><code>docker cli</code> 命令通过API跟 <code>Docker Engine(引擎)</code>交互告诉它我想创建一个container，然后<code>docker Engine</code>才会调用<code>OCI container runtime(runc)</code>来启动一个container。这代表container的process(进程)不会是<code>Docker CLI</code>的<code>child process(子进程)</code>，而是<code>Docker Engine</code>的<code>child process</code>。</li>
-<li><code>Podman</code>是直接给<code>OCI containner runtime(runc)</code>进行交互来创建container的，所以<code>container process</code>直接是<code>podman</code>的<code>child process</code>。</li>
-</ul>
-<h2 id="5-k8s弃用Docker"><a href="#5-k8s弃用Docker" class="headerlink" title="5. k8s弃用Docker"></a>5. k8s弃用Docker</h2><blockquote>
-<p>简单来讲就是 K8s 支持 Docker 的代价太大了。</p>
-</blockquote>
-<p> <a target="_blank" rel="noopener" href="https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.20.md#dockershim-deprecation"><strong>查看官方声明</strong></a></p>
-<p><code>Docker</code>并不支持<strong>CRI</strong>（容器运行时接口）这一<code>Kubernetes</code>运行时API，而<code>Kubernetes</code>用户一直以来所使用的其实是名为**<code>dockershim</code>**的桥接服务。<code>Dockershim</code>能够转换<code>Docker API</code>与<code>CRI</code>，但在后续版本当中，Kubernetes将不再提供这项桥接服务。因为这太麻烦了。</p>
-<h4 id="原因1-k8s只需要Docker-Engine中的Container-Runtime"><a href="#原因1-k8s只需要Docker-Engine中的Container-Runtime" class="headerlink" title="原因1. k8s只需要Docker Engine中的Container Runtime"></a>原因1. k8s只需要Docker Engine中的Container Runtime</h4><p><strong>首先</strong>，对于 K8s 来说 Docker 太重了。</p>
-<p>Docker 是包含了很多东西的，例如：</p>
-<ul>
-<li>CLI</li>
-<li>API</li>
-<li>Server</li>
-<li>Container Runtime</li>
-<li>Volumes</li>
-<li>Network</li>
-<li>build image</li>
-</ul>
-<p>但是 <code>K8s</code> 只是使用其中的 <code>container runtime</code>（容器运行环境）。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/docker/%E6%9E%B6%E6%9E%84%E5%9B%BE.png" alt="docker架构图"></p>
-<h4 id="原因2-k8s支持Docker的话需要额外付出许多"><a href="#原因2-k8s支持Docker的话需要额外付出许多" class="headerlink" title="原因2. k8s支持Docker的话需要额外付出许多"></a>原因2. k8s支持Docker的话需要额外付出许多</h4><p><strong>其次</strong>，<code>K8s</code> 为了支持 <code>Docker</code> 还需要单独开发和维护一个组件 – **<code>dockershim</code>**。</p>
-<p>因为 <code>Docker</code> 不支持 <code>K8s</code> 的 CRI 标准，所以 <code>K8s</code> 需要搭建一个对接 <code>Docker</code> 的桥梁，就是 <code>dockershim</code>。</p>
-<p><code>dockershim</code> 只是一个<strong>临时解决方案</strong>，长期的维护越来越麻烦，例如不兼容 cgroups v2、用户命名空间等新特性。</p>
-<blockquote>
-<p><strong>主要基于以上两个原因，K8s 决定弃用 Docker。</strong></p>
-</blockquote>
-<h2 id="6-Podman的安装"><a href="#6-Podman的安装" class="headerlink" title="6. Podman的安装"></a>6. Podman的安装</h2><p>[官网安装教程](<a target="_blank" rel="noopener" href="https://podman.io/getting-started/installation">Podman Installation</a>)</p>
-<h3 id="CentOS"><a href="#CentOS" class="headerlink" title="CentOS"></a>CentOS</h3><blockquote>
-<p>注意：Podman 在 CentOS 7 的默认 Extras 存储库和 CentOS 8 和 Stream 的 AppStream 存储库中可用。</p>
-</blockquote>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> yum -y <span class="token function">install</span> <span class="token function">podman</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h3 id="Ubutun-20-10-及以后新版"><a href="#Ubutun-20-10-及以后新版" class="headerlink" title="Ubutun 20.10 及以后新版"></a>Ubutun 20.10 及以后新版</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">apt-get</span> -y update
-<span class="token function">sudo</span> <span class="token function">apt-get</span> -y <span class="token function">install</span> <span class="token function">podman</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
-
-<h3 id="Ubuntu-20-04-或-低版本安装"><a href="#Ubuntu-20-04-或-低版本安装" class="headerlink" title="Ubuntu 20.04 或 低版本安装"></a>Ubuntu 20.04 或 低版本安装</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token builtin class-name">.</span> /etc/os-release
-
-<span class="token builtin class-name">echo</span> <span class="token string">"deb https://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable/xUbuntu_<span class="token variable">$&#123;VERSION_ID&#125;</span>/ /"</span> <span class="token operator">|</span> <span class="token function">sudo</span> <span class="token function">tee</span> /etc/apt/sources.list.d/devel:kubic:libcontainers:stable.list
-
-<span class="token function">curl</span> -L https://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable/xUbuntu_<span class="token variable">$&#123;VERSION_ID&#125;</span>/Release.key <span class="token operator">|</span> <span class="token function">sudo</span> apt-key <span class="token function">add</span> -
-
-<span class="token function">sudo</span> <span class="token function">apt-get</span> update
-
-<span class="token function">sudo</span> <span class="token function">apt-get</span> -y upgrade
-
-<span class="token function">sudo</span> <span class="token function">apt-get</span> -y <span class="token function">install</span> <span class="token function">podman</span>
-<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-
-
-
-<h3 id="Debian"><a href="#Debian" class="headerlink" title="Debian"></a>Debian</h3><blockquote>
-<p>Debian 11（Bullseye）存储库及更高版本支持</p>
-</blockquote>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> yum -y <span class="token function">install</span> <span class="token function">podman</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h3 id="Fedora"><a href="#Fedora" class="headerlink" title="Fedora"></a>Fedora</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> dnf -y <span class="token function">install</span> <span class="token function">podman</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-
-
-<h2 id="7-Podman的使用"><a href="#7-Podman的使用" class="headerlink" title="7. Podman的使用"></a>7. Podman的使用</h2><p>podman命令与docker可以说一模一样，如果你熟悉docker的话，那就是无缝切换 <code>alias docker=podman</code> : )</p>
-<h3 id="检查版本"><a href="#检查版本" class="headerlink" title="检查版本"></a>检查版本</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">podman</span> --version<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h3 id="运行容器"><a href="#运行容器" class="headerlink" title="运行容器"></a>运行容器</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">podman</span> run -dt -p <span class="token number">80</span>:80 --name nginx -v nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h3 id="列出正在运行的容器"><a href="#列出正在运行的容器" class="headerlink" title="列出正在运行的容器"></a>列出正在运行的容器</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">podman</span> <span class="token function">ps</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h3 id="查看一个容器信息"><a href="#查看一个容器信息" class="headerlink" title="查看一个容器信息"></a>查看一个容器信息</h3><p>ps: 这里的nginx是运行容器时通过 <code>--name nginx</code> 设置的别名， 也可以使用<strong>容器id</strong>来指定所要查看的容器</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">podman</span> inspect nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h3 id="查看日志"><a href="#查看日志" class="headerlink" title="查看日志"></a>查看日志</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">podman</span> logs nginx<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<h3 id="查看运行中容器的资源使用情况"><a href="#查看运行中容器的资源使用情况" class="headerlink" title="查看运行中容器的资源使用情况"></a>查看运行中容器的资源使用情况</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">podman</span> <span class="token function">top</span> nginx
-
-<span class="token function">podman</span> stats nginx<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
-
-<h3 id="迁移容器"><a href="#迁移容器" class="headerlink" title="迁移容器"></a>迁移容器</h3><p>Podman 支持将容器从一台机器迁移到另一台机器。<br>首先，在源机器上对容器设置检查点，并将容器打包到指定位置。</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">podman</span> container checkpoint <span class="token operator">&lt;</span>container_id<span class="token operator">></span> -e /tmp/checkpoint.tar.gz
-<span class="token function">scp</span> /tmp/checkpoint.tar.gz <span class="token operator">&lt;</span>destination_system<span class="token operator">></span>:/tmp<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
-
-<p>然后，在目标机器上使用源机器上传输过来的打包文件对容器进行恢复。</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">podman</span> container restore -i /tmp/checkpoint.tar.gz<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-
-<p>更多命令可以通过命令<code>podman help</code>查看</p>
-<h2 id="8-参考"><a href="#8-参考" class="headerlink" title="8. 参考"></a>8. 参考</h2><ol>
-<li><a target="_blank" rel="noopener" href="https://www.imaginarycloud.com/blog/podman-vs-docker/">Podman vs Docker: What are the differences?</a></li>
-<li><a target="_blank" rel="noopener" href="https://www.cnblogs.com/shoufu/p/11803010.html">podman初试-和docker对比</a></li>
-<li><a target="_blank" rel="noopener" href="https://docs.podman.io/en/latest">What is Podman?</a></li>
-</ol>
-
+                
                 
             </div>
             <hr/>
@@ -648,7 +526,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://aruoxi.com/posts/fad3.html">https://aruoxi.com/posts/fad3.html</a>
+                    <a href="https://aruoxi.com/posts/95c1.html">https://aruoxi.com/posts/95c1.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -686,12 +564,16 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/docker/">
-                                    <span class="chip bg-color">docker</span>
+                                <a href="/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">
+                                    <span class="chip bg-color">数据结构</span>
                                 </a>
                             
-                                <a href="/tags/k8s/">
-                                    <span class="chip bg-color">k8s</span>
+                                <a href="/tags/%E7%AE%97%E6%B3%95/">
+                                    <span class="chip bg-color">算法</span>
+                                </a>
+                            
+                                <a href="/tags/%E9%93%BE%E8%A1%A8/">
+                                    <span class="chip bg-color">链表</span>
                                 </a>
                             
                         </div>
@@ -1128,13 +1010,13 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/posts/95c1.html">
+                <a href="/posts/e3b3.html">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/16.jpg" class="responsive-img" alt="数据结构-链表">
+                        <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="“Windows下打开Ubuntu子系统报错 “参考的对象类型不支持尝试的操作”">
                         
-                        <span class="card-title">数据结构-链表</span>
+                        <span class="card-title">“Windows下打开Ubuntu子系统报错 “参考的对象类型不支持尝试的操作”</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -1145,35 +1027,15 @@
                     </div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2022-03-17
+                            <i class="far fa-clock fa-fw icon-date"></i>2022-03-26
                         </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" class="post-category">
-                                    数据结构
-                                </a>
-                            
+                            <i class="fas fa-user fa-fw"></i>
+                            hjwforever
                             
                         </span>
                     </div>
-                </div>
-                
-                <div class="card-action article-tags">
-                    
-                    <a href="/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">
-                        <span class="chip bg-color">数据结构</span>
-                    </a>
-                    
-                    <a href="/tags/%E7%AE%97%E6%B3%95/">
-                        <span class="chip bg-color">算法</span>
-                    </a>
-                    
-                    <a href="/tags/%E9%93%BE%E8%A1%A8/">
-                        <span class="chip bg-color">链表</span>
-                    </a>
-                    
                 </div>
                 
             </div>
@@ -1185,13 +1047,13 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/posts/5def.html">
+                <a href="/posts/fad3.html">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/5.jpg" class="responsive-img" alt="JS 实现监听器Listener类">
+                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="Podman vs Docker | Podman简介及安装">
                         
-                        <span class="card-title">JS 实现监听器Listener类</span>
+                        <span class="card-title">Podman vs Docker | Podman简介及安装</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -1202,14 +1064,14 @@
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-10-03
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-01-12
                             </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E5%89%8D%E7%AB%AF/" class="post-category">
-                                    前端
+                            <a href="/categories/%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%8C%96/" class="post-category">
+                                    项目开发工程化
                                 </a>
                             
                             
@@ -1219,20 +1081,12 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/eventBus/">
-                        <span class="chip bg-color">eventBus</span>
+                    <a href="/tags/docker/">
+                        <span class="chip bg-color">docker</span>
                     </a>
                     
-                    <a href="/tags/%E5%89%8D%E7%AB%AF/">
-                        <span class="chip bg-color">前端</span>
-                    </a>
-                    
-                    <a href="/tags/js/">
-                        <span class="chip bg-color">js</span>
-                    </a>
-                    
-                    <a href="/tags/%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0/">
-                        <span class="chip bg-color">源码实现</span>
+                    <a href="/tags/k8s/">
+                        <span class="chip bg-color">k8s</span>
                     </a>
                     
                 </div>
