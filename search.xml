@@ -4,40 +4,19 @@
   
     
     <entry>
-      <title>“Windows下打开Ubuntu子系统报错 “参考的对象类型不支持尝试的操作”</title>
+      <title>Windows下打开Ubuntu子系统报错 “参考的对象类型不支持尝试的操作“</title>
       <link href="/posts/e3b3.html"/>
       <url>/posts/e3b3.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="一、-情景"><a href="#一、-情景" class="headerlink" title="一、 情景"></a>一、 情景</h2><p>  想要在<code>Windows</code>下打开<code>Ubuntu</code>子系统时，报错提示<span style="color: red; font-weight: bold;">“参考的对象类型不支持尝试的操作”</span>, 也就是说用不了<code>wsl</code>命令行了, 另外也用不了<code>Docker</code>了😥。</p><h2 id="二、-永久解决方案"><a href="#二、-永久解决方案" class="headerlink" title="二、 永久解决方案"></a>二、 永久解决方案</h2><blockquote><p>管理员身份对wsl启动程序运行Nolsp.exe程序</p></blockquote><h3 id="1-下载NoLsp-exe程序"><a href="#1-下载NoLsp-exe程序" class="headerlink" title="1. 下载NoLsp.exe程序"></a>1. 下载<code>NoLsp.exe</code>程序</h3><ul><li><p>原始链接(可能需要代理): <a href="http://www.proxifier.com/tmp/Test20200228/NoLsp.exe">http://www.proxifier.com/tmp/Test20200228/NoLsp.exe</a></p></li><li><p>国内cdn: <a href="https://cdn.aruoxi.com/dll/NoLsp.exe">https://cdn.aruoxi.com/dll/NoLsp.exe</a></p></li></ul><h3 id="2-管理员身份运行"><a href="#2-管理员身份运行" class="headerlink" title="2. 管理员身份运行"></a>2. 管理员身份运行</h3><p><strong>管理员身份</strong>运行<code>CMD</code>并输入：</p><pre class="line-numbers language-cmd" data-language="cmd"><code class="language-cmd">NoLsp.exe C:\windows\system32\wsl.exe<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><em>请自行注意<code>NoLsp.exe</code>程序的存放位置，以及<code>wsl.exe</code>的存放位置。</em></p><h2 id="三、-出现原因"><a href="#三、-出现原因" class="headerlink" title="三、 出现原因"></a>三、 出现原因</h2><p><code>Proxifer</code>开发人员解释如下：</p><blockquote><p>如果<code>Winsock LSP DLL</code>被加载到其进程中，则<code>wsl.exe</code>将显示此错误。最简单的解决方案是对<code>wsl.exe</code>使用<code>WSCSetApplicationCategory WinAPI</code>调用来防止这种情况。在后台，该调用在<code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinSock2\Parameters\AppId_Catalog</code>中为<code>wsl.exe</code>创建一个条目。 这将告诉<code>Windows</code>不要将<code>LSP DLL</code>加载到<code>wsl.exe</code>进程中</p></blockquote><h2 id="四、-参考"><a href="#四、-参考" class="headerlink" title="四、 参考"></a>四、 参考</h2><ul><li><a href="https://blog.csdn.net/qq_42361881/article/details/121500438">https://blog.csdn.net/qq_42361881/article/details/121500438</a></li></ul>]]></content>
       
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>数据结构-链表</title>
-      <link href="/posts/95c1.html"/>
-      <url>/posts/95c1.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 数据结构 </category>
-          
-      </categories>
       
       
         <tags>
             
-            <tag> 数据结构 </tag>
+            <tag> Linux </tag>
             
-            <tag> 算法 </tag>
-            
-            <tag> 链表 </tag>
+            <tag> 问题汇总 </tag>
             
         </tags>
       
